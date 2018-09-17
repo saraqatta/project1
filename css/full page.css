@@ -1,0 +1,528 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	direction: ltr;
+	font-family: 'PT Sans', sans-serif;
+	color: #010101;
+
+}
+
+.heroSection{
+	background-color:#fcdb00  ;
+	width: 100%;
+	height: auto;
+	padding-top: 0px;
+	box-sizing: border-box;
+	
+	
+}
+
+.container{
+	width: 940px;
+	height: auto;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+nav{
+	margin-bottom: 70px;
+}
+
+.logo {
+	width: 50%;
+	float: left;
+	height: auto;
+}
+
+.menu{
+	float: right;
+	width: 50%;
+	height: auto;
+	text-align: right;
+	
+}
+
+.menu ul{
+	list-style-type: none;
+}
+
+.menu ul li {
+	display: inline-block;
+}
+
+.menu ul li a {
+	text-decoration: none;
+	color: #010101;
+	font-size: 22px;
+	font-weight: bold;
+	margin-left: 70px;
+}
+
+.menu ul li:first-child a {
+	margin-left: 0px;
+}
+
+.menu ul li a:hover {
+	text-decoration: underline;
+}
+
+.clear{
+	clear: both;
+}
+
+.ipad{
+	width: 50%;
+	float: right;
+	height: auto;
+	text-align: center;
+    padding-bottom: 50px;
+	    margin-top: -56px;
+
+
+}
+
+.textSide{
+	width: 50%;
+	float: left;
+	height: auto;
+	text-align: center;
+	margin-top: -10px;
+	
+}
+
+.textSide h1 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.textSide p{
+	color:black;
+	font-size: 20px;
+	text-align: center;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+	font-weight:300;
+	
+}
+
+ p#otherP{
+	color:black;
+	font-size: 14px;
+	text-align: center;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+	
+}
+
+.mainicon{
+	margin-right: 150px;
+}
+
+.icon{
+	color: black;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	font-size: 40px;
+}
+
+
+.second{
+	background-color:white;
+	width: 100%;
+	height: auto;
+	padding-top: 52px;
+	box-sizing: border-box;
+    padding-bottom: 115px;
+}
+
+h2.forh2{
+	text-align: center;
+}
+ 
+p.forp2{
+	text-align: center;
+	font-size: 15px;
+	padding-bottom: 50px;
+
+}
+
+.box1{
+	width: 33.3%;
+	height: 150px;
+	margin: 0 auto;
+	float: left;
+	box-sizing: border-box;
+
+}
+
+.box2{
+	width: 33.3%;
+	height: 150px;
+	margin: 0 auto;
+	float: left;
+		box-sizing: border-box;
+
+}
+
+.box3{
+	width: 33.3%;
+	height: 150px;
+	margin: 0 auto;
+	float: left;
+		box-sizing: border-box;
+
+}
+
+.line1{
+	margin-bottom: 30px;
+}
+
+i.fas.fa-mobile-alt{
+	font-size: 50px;
+	width: 60px;
+	text-align: center;
+    margin: 0 auto;
+	display: inline-block;
+}
+
+i.far.fa-lemon{
+	font-size: 40px;
+	width: 60px;
+	text-align: center;
+    margin: 0 auto;
+	display: inline-block;
+}
+
+i.far.fa-folder{
+	font-size: 40px;
+	width: 60px;
+	text-align: center;
+    margin: 0 auto;
+	display: inline-block;
+}
+
+i.fas.fa-code{
+	font-size: 30px;
+	width: 60px;
+	text-align: center;
+    margin: 0 auto;
+	display: inline-block;
+}
+
+.i{
+	width:60px;
+	height: 150px;
+	display: inline-block;
+}
+
+.text{
+	display: inline-block;
+	width: calc(33.3%-60px); 
+	margin-left: 60px;
+    margin-top: -144px;
+    margin-bottom: 43px;
+}
+
+.text h2{
+	font-size: 25px;
+    float: left;
+	margin: 0px;
+}
+
+
+
+
+.text p{
+	font-size: 16px;
+	float: left;
+}
+
+
+.third{
+	background-color: black;
+	height: 600px;
+}
+
+
+h2.forh3{
+	text-align: center;
+	color: #fcdb00 ;
+}
+ 
+p.forp3{
+	text-align: center;
+	font-size: 15px;
+	padding-bottom: 50px;
+	color: aliceblue;
+
+}
+
+.email{
+	width: 700px;
+	padding:10px 20px;
+	font-size: 20px;
+	border-radius: 5px;
+}
+
+.submitBtn{
+	padding:10px 20px;
+	font-size: 20px;
+	width: 140px;
+	color: black;
+	background-color: #fcdb00;
+	margin-left: 20px;
+	border-radius: 5px;
+	border: 0px;
+	font-weight: bold;
+	
+}
+.submitBtn:hover{
+	color: aliceblue;
+ cursor: pointer;
+}
+
+.social ul{
+list-style: none;
+	text-align: center;
+	
+}
+.social li{
+	float: left;
+	border: 1px;
+	width: 50px;
+	background-color: #fcdb00;
+	margin-left: 20px;
+	    border-radius: 10px;
+	
+}
+
+.social a{
+	border: 2px;
+	margin-left: 0px;
+	padding: 10px 30px;
+	
+}
+
+.social {
+    text-align: center;
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+i.fab.fa-facebook-f{
+	text-align: center;
+	font-size: 22px;
+	color: black;
+    margin-left: -27px;
+}
+
+i.fab.fa-twitter{
+	text-align: center;
+	font-size: 22px;
+	color: black;
+    margin-left: -27px;
+}
+
+
+
+i.fab.fa-google-plus-g{
+	text-align: center;
+	font-size: 22px;
+	color: black;
+    margin-left: -27px;
+}
+
+i.fab.fa-paypal{
+	text-align: center;
+	font-size: 22px;
+	color: black;
+    margin-left: -27px;
+}
+
+i.fab.fa-paypal:hover{
+	color: white;
+	
+} 
+
+
+i.fab.fa-google-plus-g:hover{
+	color: white;
+}
+i.fab.fa-twitter:hover{
+	color: white;
+}
+
+i.fab.fa-facebook-f:hover{
+	color: white;
+}
+
+
+
+
+
+
+.fivediv{
+	width: 100%;
+	height: auto;
+	margin-top: 90px;
+}
+
+.one{
+	width: 20%;
+	height: 150px;
+	float: left;
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+
+.two{
+	width: 20%;
+	height: 150px;
+	float: left;
+	margin: 0 auto;
+
+}
+.three{
+	width: 20%;
+	height: 150px;
+	float: left;
+	margin: 0 auto;
+
+}
+
+.fore{
+	width: 20%;
+	height: 150px;
+	float: left;
+	margin: 0 auto;
+}
+
+.five{
+	width: 20%;
+	height: 150px;
+	float: left;
+	margin: 0 auto;
+}
+
+.one p{
+	color: aliceblue;
+	line-height: 3px;
+	box-sizing: border-box;
+    margin: 18px;
+	margin-left: 0px;
+	margin-top: 7px;
+	font-size: 12px;
+}
+
+.two ul{
+	list-style: none;
+	margin-top: 0px;
+	
+}
+
+.two li{
+    color: aliceblue;
+	line-height: 3px;
+	box-sizing: border-box;
+	font-size: 12px;
+    margin: 18px;
+	margin-left: -35px;
+	margin-top: 7px;}
+
+.two a{
+	text-decoration: none;
+	color: aliceblue;
+}
+
+.two a:hover{
+	color: #fcdb00;
+}
+
+
+.three ul{
+	list-style: none;
+	margin-top: 0px;
+	
+}
+
+.three li{
+    color: aliceblue;
+	line-height: 3px;
+	box-sizing: border-box;
+	font-size: 12px;
+    margin: 18px;
+	margin-left: -35px;
+	margin-top: 7px;}
+
+.three a{
+	text-decoration: none;
+	color: aliceblue;
+}
+
+.three a:hover{
+	color: #fcdb00;
+}
+
+.fore ul{
+	list-style: none;
+	margin-top: 0px;
+	
+}
+
+.fore li{
+    color: aliceblue;
+	line-height: 3px;
+	box-sizing: border-box;
+	font-size: 12px;
+    margin: 18px;
+	margin-left: -35px;
+	margin-top: 7px;}
+
+.fore a{
+	text-decoration: none;
+	color: aliceblue;
+}
+
+.fore a:hover{
+	color: #fcdb00;
+}
+
+.five ul{
+	list-style: none;
+	margin-top: 0px;
+	
+}
+
+.five li{
+    color: aliceblue;
+	line-height: 3px;
+	box-sizing: border-box;
+	font-size: 12px;
+    margin: 18px;
+	margin-left: -35px;
+	margin-top: 7px;}
+
+.five a{
+	text-decoration: none;
+	color: aliceblue;
+}
+
+.five a:hover{
+	color: #fcdb00;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
